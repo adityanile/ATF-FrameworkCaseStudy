@@ -26,7 +26,7 @@ The platform was built around three principles:
 3. **Repeatable, automated execution** — both scheduled and on-demand runs with structured output, replacing the informal, person-dependent process with a consistent, auditable pipeline.
 
 ### Solution Architecture
-![Architecture Diagram](ptc_atc_architecture.png)
+![Architecture Diagram](ptc_atf_architecture.png)
 
 *The three-tier ATF (Suite → Group → Case) runs scheduled and on-demand across QA, dev, and staging environments, validating ServiceNow workflows and orchestrations automatically and producing structured pass/fail output per run.*
 
